@@ -1,0 +1,34 @@
+Execution time: 10.498727 seconds, 
+Description: Modelo agrupado (regresion lineal)
+-------------------------------------------------------------------------------------------
+Execution time: 14.833828 seconds, 
+Description: Modelo no agrupado (intercepto por condado)
+-------------------------------------------------------------------------------------------
+Execution time: 52.485137 seconds, 
+Description: Modelo parcialmente agrupado (jerarquico solo con intercepto)
+-------------------------------------------------------------------------------------------
+Execution time: 20.053377 seconds, 
+Description: Modelo parcialmente agrupado B (jerarquico intercepto y variable explicativa)
+-------------------------------------------------------------------------------------------
+Execution time: 10.801327 seconds, 
+Description: Modelo agrupado (regresion lineal)
+, 
+-------------------------------------------------------------------------------------------Execution time: 27.947644 seconds, 
+Description: Modelo no agrupado (intercepto por condado)
+, 
+-------------------------------------------------------------------------------------------Execution time: 67.583208 seconds, 
+Description: Modelo parcialmente agrupado (jerarquico solo con intercepto)
+, 
+-------------------------------------------------------------------------------------------Execution time: 35.708251 seconds, 
+Description: Modelo parcialmente agrupado B (jerarquico intercepto y variable explicativa)
+, 
+-------------------------------------------------------------------------------------------Execution time: 39.806786 seconds, 
+Description: Modelo parcialmente agrupado B (jerarquico intercepto y variable explicativa)
+, 
+-------------------------------------------------------------------------------------------Execution time: 56.273674 seconds, 
+Description: Modelo parcialmente agrupado B (jerarquico intercepto y variable explicativa)
+, 
+-------------------------------------------------------------------------------------------Execution time: 104.843170 seconds, 
+Description: Mejor modelo
+, 
+-------------------------------------------------------------------------------------------
