@@ -1,0 +1,51 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 23921 entries, 0 to 23920
+Data columns (total 44 columns):
+ #   Column                              Non-Null Count  Dtype  
+---  ------                              --------------  -----  
+ 0   Count                               23921 non-null  int64  
+ 1   date                                23921 non-null  object 
+ 2   day                                 23921 non-null  int64  
+ 3   month                               23921 non-null  int64  
+ 4   year                                23921 non-null  int64  
+ 5   tournament                          23921 non-null  object 
+ 6   country                             23921 non-null  object 
+ 7   city                                23816 non-null  object 
+ 8   neutral_location                    23921 non-null  bool   
+ 9   home_team                           23921 non-null  object 
+ 10  away_team                           23921 non-null  object 
+ 11  home_team_continent                 23921 non-null  object 
+ 12  away_team_continent                 23921 non-null  object 
+ 13  home_team_score                     23921 non-null  int64  
+ 14  away_team_score                     23921 non-null  int64  
+ 15  shoot_out                           23921 non-null  object 
+ 16  home_team_result                    23921 non-null  object 
+ 17  away_team_result                    23921 non-null  object 
+ 18  home_team_fifa_rank                 23921 non-null  int64  
+ 19  away_team_fifa_rank                 23921 non-null  int64  
+ 20  home_team_total_fifa_points         23921 non-null  int64  
+ 21  away_team_total_fifa_points         23921 non-null  int64  
+ 22  Importancia_torneo                  23921 non-null  float64
+ 23  Mundial                             23921 non-null  int64  
+ 24  Importancia_temporal                23921 non-null  float64
+ 25  Diff_ranking                        23921 non-null  int64  
+ 26  Diff_goles                          23921 non-null  int64  
+ 27  Validacion_confederacion            23921 non-null  int64  
+ 28  Count_home                          23921 non-null  int64  
+ 29  Sum_goals_scored_home               23921 non-null  int64  
+ 30  Sum_goals_received_home             23921 non-null  int64  
+ 31  Mean_goals_scored_home              23921 non-null  float64
+ 32  Mean_goals_received_home            23921 non-null  float64
+ 33  Sum_matches_tournament.x            23921 non-null  int64  
+ 34  Sum_goals_tournament_scored_home    23921 non-null  int64  
+ 35  Sum_goals_tournament_received_home  23921 non-null  int64  
+ 36  Count_away                          23921 non-null  int64  
+ 37  Sum_goals_scored_away               23921 non-null  int64  
+ 38  Sum_goals_received_away             23921 non-null  int64  
+ 39  Mean_goals_scored_away              23921 non-null  float64
+ 40  Mean_goals_received_away            23921 non-null  float64
+ 41  Sum_matches_tournament.y            23921 non-null  int64  
+ 42  Sum_goals_tournament_scored_away    23921 non-null  int64  
+ 43  Sum_goals_tournament_received_away  23921 non-null  int64  
+dtypes: bool(1), float64(6), int64(26), object(11)
+memory usage: 7.9+ MB
